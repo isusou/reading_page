@@ -27,6 +27,14 @@
     "goals": {},
     "titles_read": [
       {
+        "asin": "36117475A92247F88BD06607C3CB9DC4",
+        "read_event_id": "cb064dec-58e1-4235-b299-bd1c3ef0e22d",
+        "date_read": "2026-11-26T22:51:12-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "28205E8858F7414E8297D30C6F32BAE3",
         "read_event_id": "7dd4dab7-2210-45b3-a18f-035873566a5f",
         "date_read": "2026-07-01T06:20:59-07:00",
@@ -96,10 +104,17 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 35,
+    "daysLeftInCurrentChallenge": 34,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_bb1dc97c-9e49-3ad0-9f48-8ca796879536.png",
+        "quantity": 1,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
         "quantity": 0,
@@ -111,13 +126,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_SilverReader_71f910a5-b211-3544-967a-3fc78c94e6de.png",
         "quantity": 0,
         "title": "Silver Reader",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
-        "quantity": 0,
-        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
